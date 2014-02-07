@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric5 project file for project MiniBrowserTutorial -->
+<!-- Saved: 2014-02-07, 16:12:45 -->
+<!-- Copyright (C) 2014 ,  -->
+<Project version="5.1">
+  <Language>en_US</Language>
+  <Hash>a93befba382a81cf561db9d98bbaf850b6822e36</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>Qt4</ProjectType>
+  <Description></Description>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Sources>
+    <Source>__init__.py</Source>
+    <Source>UI/__init__.py</Source>
+    <Source>UI/Ui_mainwindowform.py</Source>
+    <Source>UI/mainwindowform.py</Source>
+    <Source>minibrowsermain.py</Source>
+  </Sources>
+  <Forms>
+    <Form>UI/mainwindowform.ui</Form>
+  </Forms>
+  <Translations/>
+  <Resources/>
+  <Interfaces/>
+  <Others>
+    <Other>minibrowsermain</Other>
+  </Others>
+  <MainScript>minibrowsermain</MainScript>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES"/>
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.ui" type="FORMS"/>
+    <FiletypeAssociation pattern="*.ui.h" type="FORMS"/>
+  </FiletypeAssociations>
+</Project>
